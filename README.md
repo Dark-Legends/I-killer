@@ -32,6 +32,9 @@ sudo apt-get install git -y
 sudo apt-get install curl -y
 ```
 ```bash
+sudo apt-get install pv -y
+```
+```bash
 git clone https://github.com/Dark-Legends/i-killer2.0
 ```
 
@@ -56,6 +59,9 @@ apt install git -y
 ```
 ```bash
 apt install curl -y
+```
+```bash
+apt install pv -y
 ```
 ```bash
 git clone https://github.com/Dark-Legends/i-killer2.0
@@ -86,7 +92,9 @@ sudo apk add git
 ```bash
 sudo apk add curl
 ```
-
+```bash
+sudo apk add pv
+```
 ```bash
 git clone  https://github.com/Dark-Legends/i-killer2.0
 ```
