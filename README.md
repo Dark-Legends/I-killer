@@ -1,4 +1,4 @@
-# IP-Killer1.0
+# I-Killer2.0
 I-Kiler in ip Track Tool For ( Ethical hacking) and ( Cyber Security )
 
 
@@ -32,7 +32,7 @@ sudo apt-get install git -y
 sudo apt-get install curl -y
 ```
 ```bash
-git clone  https://github.com/Dark-Legends/I-KILLER.git
+git clone 
 ```
 
 ```bash
