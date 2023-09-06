@@ -32,11 +32,11 @@ sudo apt-get install git -y
 sudo apt-get install curl -y
 ```
 ```bash
-git clone 
+git clone https://github.com/Dark-Legends/i-killer2.0
 ```
 
 ```bash
-cd IP-Killer1.0
+cd i-Killer2.0
 ```
 ```bash
 chmod +x ip-killer.sh
@@ -58,10 +58,10 @@ apt install git -y
 apt install curl -y
 ```
 ```bash
-git clone https://github.com/Dark-Legends/I-KILLER.git
+git clone https://github.com/Dark-Legends/i-killer2.0
 ```
 ```bash
-cd I-KILLER
+cd i-killer2.0
 ```
 
 ```bash
@@ -88,10 +88,10 @@ sudo apk add curl
 ```
 
 ```bash
-git clone  https://github.com/Dark-Legends/I-KILLER.git
+git clone  https://github.com/Dark-Legends/i-killer2.0
 ```
 ```bash
-cd I-KILLER
+cd i-killer2.0
 ```
 ```bash
 chmod +x ip-killer.sh
