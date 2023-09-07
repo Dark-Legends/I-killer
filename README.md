@@ -1,4 +1,4 @@
-# I-Killer2.0
+# I-Killer
 I-Kiler in a ip Tracking Tool For ( Ethical hacking) and ( Cyber Security )
 
 
@@ -35,11 +35,11 @@ sudo apt-get install curl -y
 sudo apt-get install pv -y
 ```
 ```bash
-git clone https://github.com/Dark-Legends/i-killer2.0
+git clone https://github.com/Dark-Legends/I-killer
 ```
 
 ```bash
-cd i-Killer2.0
+cd I-Killer2.0
 ```
 ```bash
 chmod +x ip-killer.sh
@@ -64,10 +64,10 @@ apt install curl -y
 apt install pv -y
 ```
 ```bash
-git clone https://github.com/Dark-Legends/i-killer2.0
+git clone https://github.com/Dark-Legends/I-killer
 ```
 ```bash
-cd i-killer2.0
+cd I-killer
 ```
 
 ```bash
@@ -96,10 +96,10 @@ sudo apk add curl
 sudo apk add pv
 ```
 ```bash
-git clone  https://github.com/Dark-Legends/i-killer2.0
+git clone  https://github.com/Dark-Legends/I-killer
 ```
 ```bash
-cd i-killer2.0
+cd I-killer
 ```
 ```bash
 chmod +x ip-killer.sh
