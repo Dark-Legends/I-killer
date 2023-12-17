@@ -48,11 +48,13 @@ chmod +x install.sh
 ```bash
 ./ip-killer
 ```
+```bash 
 Usage: i-killer [OPTIONS]
 Options:
   --help      Help Command Info
   --version   Version Command Information
-  
+```
+
 #   💿  Installation On Termux and userland app ...  💿
 ```bash
 apt update 
@@ -79,7 +81,12 @@ chmod +x install.sh
 ./ip-killer
 ```
 
+
+```bash
 Usage: i-killer [OPTIONS]
 Options:
   --help      Help Command Info
   --version   Version Command Information
+
+
+``` 
