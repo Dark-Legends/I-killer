@@ -26,7 +26,7 @@ it only for Ethical hacker and pentester Don't use for unethical hacking and thi
 
 - Debian OS
 
-Added live host Identification and server live Identification 
+- Added live host Identification and server live Identification
 
 #  💿  Installation On Ubuntu and Kali and parrot os  ... 💿
 ```bash
@@ -90,4 +90,10 @@ Options:
   --version   Version Command Information
 
 
-``` 
+```
+<h4>📢 Join Telegram for More Script and Tool for Free and OpenSource </h4>
+
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/CyberDarkLegends)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Dark-Legends)
