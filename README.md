@@ -13,14 +13,19 @@ it only for Ethical hacker and pentester Don't use for unethical hacking and thi
 
 - Termux
 
-- Alpine
+- ARCH Linux 
 
 - userland 
 
-- Ubuntu
+- Ubuntu 
 
-- Parrot Sec OS
+- Parrot OS
 
+- Blackarch Linux
+
+- Debian OS
+
+Added live host Identification and server live Identification 
 
 #  💿  Installation On Ubuntu and Kali and parrot os  ... 💿
 ```bash
@@ -29,25 +34,25 @@ sudo apt update && apt upgrade -y
 ```bash
 sudo apt-get install git -y
 ```
-```bash
-sudo apt-get install curl -y
-```
-```bash
-sudo apt-get install pv -y
-```
+
 ```bash
 git clone https://github.com/Dark-Legends/I-killer
 ```
 
 ```bash
-cd I-Killer2.0
+cd I-Killer
 ```
 ```bash
-chmod +x ip-killer.sh
+chmod +x install.sh 
 ```
 ```bash
-./ip-killer.sh
+./ip-killer
 ```
+Usage: i-killer [OPTIONS]
+Options:
+  --help      Help Command Info
+  --version   Version Command Information
+  
 #   💿  Installation On Termux and userland app ...  💿
 ```bash
 apt update 
@@ -55,15 +60,11 @@ apt update
 ```bash
 apt upgrade -y
 ```
+
 ```bash
 apt install git -y
 ```
-```bash
-apt install curl -y
-```
-```bash
-apt install pv -y
-```
+
 ```bash
 git clone https://github.com/Dark-Legends/I-killer
 ```
@@ -72,39 +73,13 @@ cd I-killer
 ```
 
 ```bash
-chmod +x ip-killer.sh
+chmod +x install.sh
 ```
 ```bash
-./ip-killer.sh
+./ip-killer
 ```
 
- #  💿  Installation On Alpine os ... 💿 
-```bash
-sudo apk update
-```
-```bash
-sudo apk upgrade
-```
-
-```bash
-sudo apk add git 
-```
-
-```bash
-sudo apk add curl
-```
-```bash
-sudo apk add pv
-```
-```bash
-git clone  https://github.com/Dark-Legends/I-killer
-```
-```bash
-cd I-killer
-```
-```bash
-chmod +x ip-killer.sh
-```
-```bash
-./ip-killer.sh
-```
+Usage: i-killer [OPTIONS]
+Options:
+  --help      Help Command Info
+  --version   Version Command Information
